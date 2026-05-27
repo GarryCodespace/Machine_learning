@@ -21,7 +21,7 @@ def main():
         X,
         y,
         test_size=0.3,
-        random_state=11,
+        random_state=1,
         stratify=y,
     )
 

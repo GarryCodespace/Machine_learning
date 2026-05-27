@@ -1,5 +1,4 @@
 from pathlib import Path
-
 import pandas as pd
 from sklearn.dummy import DummyRegressor
 from sklearn.linear_model import LinearRegression
@@ -7,12 +6,15 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 from sklearn.model_selection import train_test_split
 
 
+#build location access for the file
 DATA_PATH = Path(__file__).parent / "data" / "houses_tiny.csv"
 
 
 def main():
+# load the data into panda (spreadsheet in python)
     data = pd.read_csv(DATA_PATH)
 
+# list of inputs 
     feature_columns = [
         "size_sqft",
         "bedrooms",
@@ -20,11 +22,14 @@ def main():
         "age_years",
         "distance_to_city_km",
     ]
+# list of outputs
     target_column = "price_k"
 
+#separateing the x as input and y as output
     X = data[feature_columns]
     y = data[target_column]
 
+# split the training data in to testing and training
     X_train, X_test, y_train, y_test = train_test_split(
         X,
         y,
@@ -32,13 +37,17 @@ def main():
         random_state=7,
     )
 
+# average pricing for all housing data
     baseline = DummyRegressor(strategy="mean")
     baseline.fit(X_train, y_train)
     baseline_predictions = baseline.predict(X_test)
 
+# create an linear regression model, then train and predict prices for houses unseen
     model = LinearRegression()
     model.fit(X_train, y_train)
     predictions = model.predict(X_test)
+
+
 
     print("House price model")
     print(f"Rows: {len(data)}")
@@ -58,6 +67,7 @@ def main():
     print(f"Intercept: {model.intercept_:.2f}")
     print()
 
+#predict new house
     example_houses = pd.DataFrame(
         [
             {

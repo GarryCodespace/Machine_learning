@@ -28,8 +28,8 @@ def main():
     X = data[feature_columns]
     y = data[target_column]
 
-    numeric_features = ["pclass", "age", "sibsp", "parch", "fare"]
-    categorical_features = ["sex", "embarked"]
+    numeric_features = ["pclass", "age", "sibsp", "parch", "fare"] 
+    categorical_features = ["sex", "embarked"] 
 
 #preprocessing: data can be messy, preprocessing is used to tun messy ddata like text into number and normalise big numbers
 

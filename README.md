@@ -30,6 +30,18 @@ Run the spam detector:
 python 03_spam_detector/train.py
 ```
 
+Run the tiny neural network from scratch:
+
+```bash
+python 04_tiny_neural_network/train.py
+```
+
+Run the PyTorch neural network:
+
+```bash
+python 05_pytorch_neural_network/train.py
+```
+
 ## Study Loop
 
 1. Run one project.
