@@ -1,0 +1,41 @@
+Garry built a small model.
+The model read one character at a time.
+At first it guessed badly.
+Then the loss slowly went down.
+
+Mina opened a notebook.
+She wrote a tiny sentence.
+The computer turned each character into a number.
+The numbers became vectors.
+The vectors moved through attention.
+
+Attention lets one position look at earlier positions.
+A transformer uses attention again and again.
+It cannot look into the future when it predicts the next token.
+That rule is called a causal mask.
+
+The cat sat near the warm window.
+The dog ran across the bright yard.
+The bird sang on the quiet branch.
+The robot learned from every line.
+
+Machine learning is not magic.
+It is data, prediction, loss, and updates.
+A language model predicts the next token.
+If it can predict the next token well, it can generate text.
+
+Tiny models are useful for learning.
+They are small enough to understand.
+They are fast enough to change.
+They show the shape of bigger systems.
+
+The student asked a question.
+The tutor gave a small example.
+The example became a project.
+The project became a new skill.
+
+Build the simple version first.
+Run it.
+Break it.
+Fix it.
+Then make it better.

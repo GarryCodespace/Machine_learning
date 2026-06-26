@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+/data/
+/08_mnist_digit_classification/data/
+/10_cifar10_cnn/data/
+*.pt
+*.pth
+node_modules/

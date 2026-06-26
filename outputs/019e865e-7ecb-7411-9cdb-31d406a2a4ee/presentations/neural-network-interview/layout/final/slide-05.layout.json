@@ -1,0 +1,1150 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/vqaf1c",
+    "id": "vqaf1c",
+    "slide": 5,
+    "layoutId": "a32841be-8f8c-40c5-8adf-7a06095edf96",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "6b914cb1-f3c9-443a-8463-4be4bec9ba7a",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Aptos",
+      "Aptos Display",
+      "Aptos Mono"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "a32841be-8f8c-40c5-8adf-7a06095edf96",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "6b914cb1-f3c9-443a-8463-4be4bec9ba7a",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "6b914cb1-f3c9-443a-8463-4be4bec9ba7a",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4vmtwra5",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#07111F",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bat47y1k",
+      "id": "2",
+      "name": "kicker-5-marker",
+      "bbox": [
+        56,
+        42,
+        10,
+        10
+      ],
+      "geometry": "rect",
+      "fillColor": "#4DD3D8",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mp0bi9s3",
+      "id": "3",
+      "name": "kicker-5-label",
+      "bbox": [
+        74,
+        34,
+        250,
+        26
+      ],
+      "geometry": "rect",
+      "text": "DELIVERY MINDSET",
+      "textPreview": "DELIVERY MINDSET",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 13,
+        "typeface": "Aptos Mono",
+        "color": "#4DD3D8",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "DELIVERY MINDSET"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "DELIVERY MINDSET",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Aptos Mono",
+            "color": "#4DD3D8",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "DELIVERY MINDSET",
+              "fontSize": 13,
+              "typeface": "Aptos Mono",
+              "color": "#4DD3D8",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tsvu9kni",
+      "id": "4",
+      "bbox": [
+        56,
+        662,
+        1168,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#26384F",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/47y1kre1",
+      "id": "5",
+      "bbox": [
+        1030,
+        668,
+        194,
+        18
+      ],
+      "geometry": "rect",
+      "text": "Neural networks / 05",
+      "textPreview": "Neural networks / 05",
+      "resolvedFontSize": 10,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 10,
+        "typeface": "Aptos",
+        "color": "#91A1B5",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Neural networks / 05"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Neural networks / 05",
+          "resolvedTextStyle": {
+            "fontSize": 10,
+            "typeface": "Aptos",
+            "color": "#91A1B5",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Neural networks / 05",
+              "fontSize": 10,
+              "typeface": "Aptos",
+              "color": "#91A1B5"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bm58z25k",
+      "id": "6",
+      "bbox": [
+        56,
+        76,
+        880,
+        116
+      ],
+      "geometry": "rect",
+      "text": "A model is only useful when it is validated, explainable enough, and monitored.",
+      "textPreview": "A model is only useful when it is validated, explainable enough, and monitored.",
+      "resolvedFontSize": 42,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 42,
+        "typeface": "Aptos Display",
+        "color": "#EAF2FF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "A model is only useful when it is validated,"
+          },
+          {
+            "index": 2,
+            "text": "explainable enough, and monitored."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "A model is only useful when it is validated, explainable enough, and monitored.",
+          "resolvedTextStyle": {
+            "fontSize": 42,
+            "typeface": "Aptos Display",
+            "color": "#EAF2FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "A model is only useful when it is validated, explainable enough, and monitored.",
+              "fontSize": 42,
+              "typeface": "Aptos Display",
+              "color": "#EAF2FF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m1cfa9w3",
+      "id": "7",
+      "bbox": [
+        60,
+        196,
+        760,
+        58
+      ],
+      "geometry": "rect",
+      "text": "My interest in neural networks is not just building models. It is building systems that can be trusted in an engineering context.",
+      "textPreview": "My interest in neural networks is not just building models. It is building systems that can be trusted in an engineering context.",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "Aptos",
+        "color": "#EAF2FF",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 2,
+          "right": 0,
+          "bottom": 2,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "My interest in neural networks is not just building models. It is building systems that"
+          },
+          {
+            "index": 2,
+            "text": "can be trusted in an engineering context."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "My interest in neural networks is not just building models. It is building systems that can be trusted in an engineering context.",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Aptos",
+            "color": "#EAF2FF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "My interest in neural networks is not just building models. It is building systems that can be trusted in an engineering context.",
+              "fontSize": 20,
+              "typeface": "Aptos",
+              "color": "#EAF2FF"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/twra5gbq",
+      "id": "8",
+      "bbox": [
+        96,
+        330,
+        220,
+        112
+      ],
+      "geometry": "rect",
+      "text": "representative, labelled,\nchecked for bias",
+      "textPreview": "representative, labelled, | checked for bias",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 17,
+        "typeface": "Aptos",
+        "color": "#EAF2FF",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 10,
+          "right": 12,
+          "bottom": 10,
+          "left": 12
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "representative, labelled,"
+          },
+          {
+            "index": 2,
+            "text": "checked for bias"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "representative, labelled,",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Aptos",
+            "color": "#EAF2FF",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "representative, labelled,",
+              "fontSize": 17,
+              "typeface": "Aptos",
+              "color": "#EAF2FF"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "checked for bias",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Aptos",
+            "color": "#EAF2FF",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "checked for bias",
+              "fontSize": 17,
+              "typeface": "Aptos",
+              "color": "#EAF2FF"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#111D2F",
+      "lineColor": "#26384F",
+      "lineWidth": 1
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4byhgn29",
+      "id": "9",
+      "bbox": [
+        96,
+        292,
+        220,
+        24
+      ],
+      "geometry": "rect",
+      "text": "data quality",
+      "textPreview": "data quality",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 13,
+        "typeface": "Aptos Mono",
+        "color": "#4DD3D8",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "data quality"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "data quality",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Aptos Mono",
+            "color": "#4DD3D8",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "data quality",
+              "fontSize": 13,
+              "typeface": "Aptos Mono",
+              "color": "#4DD3D8"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m58z25kb",
+      "id": "10",
+      "bbox": [
+        322,
+        384,
+        52,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#26384F",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bq1oryts",
+      "id": "11",
+      "bbox": [
+        381,
+        330,
+        220,
+        112
+      ],
+      "geometry": "rect",
+      "text": "test on unseen data,\nmeasure failure modes",
+      "textPreview": "test on unseen data, | measure failure modes",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 17,
+        "typeface": "Aptos",
+        "color": "#EAF2FF",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 10,
+          "right": 12,
+          "bottom": 10,
+          "left": 12
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "test on unseen data,"
+          },
+          {
+            "index": 2,
+            "text": "measure failure modes"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "test on unseen data,",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Aptos",
+            "color": "#EAF2FF",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "test on unseen data,",
+              "fontSize": 17,
+              "typeface": "Aptos",
+              "color": "#EAF2FF"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "measure failure modes",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Aptos",
+            "color": "#EAF2FF",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "measure failure modes",
+              "fontSize": 17,
+              "typeface": "Aptos",
+              "color": "#EAF2FF"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#111D2F",
+      "lineColor": "#26384F",
+      "lineWidth": 1
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4byhgn29",
+      "id": "12",
+      "bbox": [
+        381,
+        292,
+        220,
+        24
+      ],
+      "geometry": "rect",
+      "text": "model validation",
+      "textPreview": "model validation",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 13,
+        "typeface": "Aptos Mono",
+        "color": "#4DD3D8",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "model validation"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "model validation",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Aptos Mono",
+            "color": "#4DD3D8",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "model validation",
+              "fontSize": 13,
+              "typeface": "Aptos Mono",
+              "color": "#4DD3D8"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/twra5gbq",
+      "id": "13",
+      "bbox": [
+        607,
+        384,
+        52,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#FF7A59",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mhk3q5o7",
+      "id": "14",
+      "bbox": [
+        666,
+        330,
+        220,
+        112
+      ],
+      "geometry": "rect",
+      "text": "explain enough to support\nengineering decisions",
+      "textPreview": "explain enough to support | engineering decisions",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 17,
+        "typeface": "Aptos",
+        "color": "#EAF2FF",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 10,
+          "right": 12,
+          "bottom": 10,
+          "left": 12
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "explain enough to"
+          },
+          {
+            "index": 2,
+            "text": "support"
+          },
+          {
+            "index": 3,
+            "text": "engineering decisions"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "explain enough to support",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Aptos",
+            "color": "#EAF2FF",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "explain enough to support",
+              "fontSize": 17,
+              "typeface": "Aptos",
+              "color": "#EAF2FF"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "engineering decisions",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Aptos",
+            "color": "#EAF2FF",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "engineering decisions",
+              "fontSize": 17,
+              "typeface": "Aptos",
+              "color": "#EAF2FF"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#111D2F",
+      "lineColor": "#26384F",
+      "lineWidth": 1
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/b2hwfyxo",
+      "id": "15",
+      "bbox": [
+        666,
+        292,
+        220,
+        24
+      ],
+      "geometry": "rect",
+      "text": "human judgement",
+      "textPreview": "human judgement",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 13,
+        "typeface": "Aptos Mono",
+        "color": "#4DD3D8",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "human judgement"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "human judgement",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Aptos Mono",
+            "color": "#4DD3D8",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "human judgement",
+              "fontSize": 13,
+              "typeface": "Aptos Mono",
+              "color": "#4DD3D8"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4nap4r65",
+      "id": "16",
+      "bbox": [
+        892,
+        384,
+        52,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#26384F",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t83itgfm",
+      "id": "17",
+      "bbox": [
+        951,
+        330,
+        220,
+        112
+      ],
+      "geometry": "rect",
+      "text": "track drift, feedback,\nand real-world outcomes",
+      "textPreview": "track drift, feedback, | and real-world outcomes",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 17,
+        "typeface": "Aptos",
+        "color": "#EAF2FF",
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 10,
+          "right": 12,
+          "bottom": 10,
+          "left": 12
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "track drift, feedback,"
+          },
+          {
+            "index": 2,
+            "text": "and real-world outcomes"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "track drift, feedback,",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Aptos",
+            "color": "#EAF2FF",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "track drift, feedback,",
+              "fontSize": 17,
+              "typeface": "Aptos",
+              "color": "#EAF2FF"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "and real-world outcomes",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Aptos",
+            "color": "#EAF2FF",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "and real-world outcomes",
+              "fontSize": 17,
+              "typeface": "Aptos",
+              "color": "#EAF2FF"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#2A8B96",
+      "lineColor": "#4DD3D8",
+      "lineWidth": 1
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mp0bi9s3",
+      "id": "18",
+      "bbox": [
+        951,
+        292,
+        220,
+        24
+      ],
+      "geometry": "rect",
+      "text": "deployment monitoring",
+      "textPreview": "deployment monitoring",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 13,
+        "typeface": "Aptos Mono",
+        "color": "#FF7A59",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "deployment monitoring"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "deployment monitoring",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Aptos Mono",
+            "color": "#FF7A59",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "deployment monitoring",
+              "fontSize": 13,
+              "typeface": "Aptos Mono",
+              "color": "#FF7A59"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bat47y1k",
+      "id": "19",
+      "bbox": [
+        90,
+        506,
+        1000,
+        86
+      ],
+      "geometry": "rect",
+      "fillColor": "#4DD3D8",
+      "lineColor": "#4DD3D8",
+      "lineWidth": 1
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3ex0nuxc",
+      "id": "20",
+      "bbox": [
+        118,
+        522,
+        940,
+        56
+      ],
+      "geometry": "rect",
+      "text": "For me, neural networks are exciting because they combine mathematics, software, data, and real-world judgement - exactly the kind of multidisciplinary thinking I want to grow as an engineer.",
+      "textPreview": "For me, neural networks are exciting because they combine mathematics, software, data, and real-world judgement - exactly the kind of mul...",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "Aptos",
+        "color": "#FFFFFF",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 2,
+          "right": 0,
+          "bottom": 2,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "For me, neural networks are exciting because they combine mathematics, software, data, and real-world"
+          },
+          {
+            "index": 2,
+            "text": "judgement - exactly the kind of multidisciplinary thinking I want to grow as an engineer."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "For me, neural networks are exciting because they combine mathematics, software, data, and real-world judgement - exactly the kind of multidisciplinary thinking I want to grow as an engineer.",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Aptos",
+            "color": "#FFFFFF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "For me, neural networks are exciting because they combine mathematics, software, data, and real-world judgement - exactly the kind of multidisciplinary thinking I want to grow as an engineer.",
+              "fontSize": 20,
+              "typeface": "Aptos",
+              "color": "#FFFFFF"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

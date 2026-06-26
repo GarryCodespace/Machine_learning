@@ -1,0 +1,7 @@
+Slide 1: Cover pipeline. Large claim on left, signal-to-insight strip on right.
+Slide 2: Architecture map. Layered hierarchy with feature labels and learned weights.
+Slide 3: Feedback loop. Circular training loop plus compact loss curve.
+Slide 4: Engineering use cases. Four-row matrix with signal, output, decision.
+Slide 5: Guardrail stack. Deployment stages from data to monitoring, closing statement.
+
+No repeated macro-layouts. No card-grid cadence. Diagrams carry the visual proof on every slide.

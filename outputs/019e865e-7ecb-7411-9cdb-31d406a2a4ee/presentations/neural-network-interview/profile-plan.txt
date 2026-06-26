@@ -1,0 +1,20 @@
+Task mode: create
+Primary deck-profile: engineering-platform
+Secondary profile gates: interview presentation; concise 3-minute delivery
+Required proof objects:
+- Architecture/workflow map showing input, layers, output, and feedback.
+- Learning loop showing prediction, error, backpropagation, and update.
+- Product/engineering proof slide connecting neural networks to sensing, forecasting, optimisation, and automation.
+- Risk/responsible-use slide covering data quality, explainability, validation, and deployment monitoring.
+Source/asset requirements:
+- No external facts, reported metrics, or identity assets required.
+- Use editable diagrams and chart-like primitives, not embedded screenshots.
+Brand authenticity constraints:
+- Do not approximate Mott MacDonald marks or logos.
+- Keep visual tone professional, engineering-oriented, and interview-appropriate.
+Profile-specific QA gates:
+- Technical labels must remain precise and legible.
+- Connector direction must be clear.
+- Every slide must have a claim, proof object, and concise support.
+Known missing inputs:
+- No personal project details supplied; deck uses a general engineering framing.

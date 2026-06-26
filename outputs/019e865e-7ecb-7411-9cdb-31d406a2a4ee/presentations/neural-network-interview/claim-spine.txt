@@ -1,0 +1,34 @@
+Thesis:
+Neural networks are compelling because they learn useful representations from messy signals, turning raw data into decisions engineers can test, deploy, and improve.
+
+Audience:
+Graduate engineering interview panel at Mott MacDonald.
+
+One-line arc:
+Start with why neural networks matter, explain the mechanism, show how learning works, connect it to engineering value, and close with a responsible deployment mindset.
+
+Slide list:
+1. PASSION TOPIC - Neural networks turn messy signals into engineering insight.
+   Proof object: input-to-decision visual pipeline.
+   Source: general ML knowledge.
+   Omission notes: no deep maths; keep opening personal and confident.
+
+2. REPRESENTATION - A neural network is layers of weighted connections, not a single graph.
+   Proof object: feed-forward network diagram with input, hidden layers, outputs, dense weighted connections, and a compact layer equation z = W x + b.
+   Source: general ML knowledge.
+   Omission notes: skip activation equations.
+
+3. LEARNING LOOP - Training is an engineering feedback loop: predict, measure error, update.
+   Proof object: closed loop with loss curve.
+   Source: general ML knowledge.
+   Omission notes: avoid calculus; name backpropagation once.
+
+4. USE CASES - Neural networks are used when inputs are too complex for hand-written rules.
+   Proof object: four use cases: Tesla-style autonomy, language models, image recognition, and engineering monitoring.
+   Source: general ML knowledge.
+   Omission notes: avoid claiming Mott MacDonald already uses these.
+
+5. DELIVERY MINDSET - The model is only useful when it is validated, explainable enough, and monitored.
+   Proof object: deployment guardrail stack.
+   Source: general ML knowledge.
+   Omission notes: close by tying passion to responsible engineering.

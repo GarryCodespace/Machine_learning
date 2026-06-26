@@ -1,0 +1,7 @@
+No source deck or visual reference deck was supplied.
+
+Quality target:
+- Interview-ready: clear enough for non-specialist engineers.
+- Technical: uses correct vocabulary without overloading the panel.
+- Editable: built from native presentation shapes and text.
+- Short: designed for a 3-minute delivery window.

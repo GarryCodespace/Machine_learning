@@ -7,6 +7,12 @@
   "editor.suggestOnTriggerCharacters": true,
   "editor.suggestSelection": "first",
   "editor.tabCompletion": "on",
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
+  "jupyter.kernels.excludePythonEnvironments": [
+    "/usr/local/bin/python3.8",
+    "/Library/Frameworks/Python.framework/Versions/3.8/bin/python3.8",
+    "/Library/Frameworks/Python.framework/Versions/3.8/Resources/Python.app/Contents/MacOS/Python"
+  ],
   "python.analysis.autoImportCompletions": true,
   "python.analysis.indexing": true,
   "python.analysis.typeCheckingMode": "basic"

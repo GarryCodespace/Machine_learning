@@ -1,0 +1,3 @@
+No external sources used.
+
+The deck explains stable, general machine-learning concepts: neural network layers, training by loss minimisation, backpropagation, and engineering applications. No company logos, proprietary marks, exact market figures, or third-party metrics are included.

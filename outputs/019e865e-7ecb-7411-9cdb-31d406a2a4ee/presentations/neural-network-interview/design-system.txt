@@ -1,0 +1,40 @@
+Slide size:
+1280x720.
+
+Background system:
+Dark technical base (#07111F) with elevated panels (#111D2F / #17263B) and a subtle top band.
+
+Typography:
+Title: Aptos Display, 38-62 px.
+Body and labels: Aptos, 14-24 px.
+Mono labels: Aptos Mono, 12-16 px.
+
+Palette:
+Neutral/base: #07111F, #111D2F, #EAF2FF.
+Main accent: #4DD3D8 for core technical elements.
+Secondary/support: #FF7A59 for error, feedback, and autonomy/use-case emphasis.
+Positive/support: #B7D36A and #F2C14E for validation and image/use-case accents.
+
+Chart grammar:
+Use direct labels, no legends. Curves and bars are editable primitives.
+
+Diagram grammar:
+Nodes are crisp rectangles or circles with small-radius implied by geometry only where needed. Connectors encode actual flow, with clear direction labels when arrows are avoided.
+
+Connector grammar:
+Use thin rules or short labelled links. Direction is carried by ordered placement and labels.
+
+Container / box grammar:
+Use containers only for real grouping, stage, or comparison. No decorative card grids.
+
+Source/footer grammar:
+Page number and small topic label in bottom-right. No source footers required because no external sources are used.
+
+Kicker grammar:
+Small all-caps kicker at top-left, teal marker, vertically centered label.
+
+Allowed layout families:
+Cover pipeline; layered architecture map; learning loop with curve; use-case matrix; deployment guardrail stack.
+
+Banned motifs:
+No fake logos, no decorative blobs, no generic AI chip imagery, no dense equations. Brand names may appear as plain text examples only.

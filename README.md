@@ -42,6 +42,48 @@ Run the PyTorch neural network:
 python 05_pytorch_neural_network/train.py
 ```
 
+Run NumPy linear regression from scratch:
+
+```bash
+python 06_linear_regression_from_scratch/train.py
+```
+
+Run NumPy logistic regression from scratch:
+
+```bash
+python 07_logistic_regression_from_scratch/train.py
+```
+
+Run the MNIST digit classifier:
+
+```bash
+python 08_mnist_digit_classification/train.py
+```
+
+Open the EDA notebook:
+
+```text
+09_data_processing_and_eda/eda_titanic.ipynb
+```
+
+Run the CIFAR-10 CNN:
+
+```bash
+python 10_cifar10_cnn/train.py --fake-data --epochs 1 --max-train-batches 5 --max-test-batches 2
+```
+
+Run the embeddings text classifier:
+
+```bash
+python 11_embeddings_text_classifier/train.py
+```
+
+Run the tiny transformer language model:
+
+```bash
+python 12_tiny_transformer_language_model/train.py --max-steps 20 --eval-interval 10
+```
+
 ## Study Loop
 
 1. Run one project.
